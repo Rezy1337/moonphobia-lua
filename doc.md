@@ -3,11 +3,11 @@
 Доступные функции для первичного взаимодействия с читом
 
 ```bash
-	run_script("name.lua") //Запуск скрипта из папки moonphobia.pw/lua
+	run_script("name.lua") //Запуск скрипта из папки lua
 	reload_active_scripts() //Перезапускает активные скрипты
 	is_key_down() //Проверяет нажатие клавиши
     get_tick_count() //Возвращает количество тиков
-    play_sound("name.wav") //Проигрывает звук из папки moonphobia.pw/lua, поддерживает только .wav формат.
+    play_sound("name.wav") //Проигрывает звук из папки lua, поддерживает только .wav формат.
 	set_event_callback() //Вызов функции в определенном хуке
 ```
 
