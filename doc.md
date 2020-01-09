@@ -138,4 +138,4 @@ get_offset(const std::string& tableName, const std::string& propName) //Полу
 ## Examples
 
 
-?> Вы можете сказать простые примеры по ссылке (https://vk.cc/ae1bOl)
+?> Вы можете скачать простые примеры по ссылке (https://vk.cc/ae1bOl)
