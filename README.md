@@ -20,7 +20,7 @@
 
 Пример использования
 
-Типы callback: "paint_traverse","create_move","fire_event"
+Типы callback: "paint_traverse","create_move","fire_event", "fsn"
 
 ```lua
 cheat.set_event_callback("paint_traverse", funcName)
