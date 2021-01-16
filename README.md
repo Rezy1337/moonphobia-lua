@@ -83,7 +83,7 @@ cheat.set_event_callback("paint_traverse", DoClanTag)
 	get_last_timestamp() //Получить timestamp (дату и время в UNIX формате)
 	get_level_name() //Получить название карты
 	get_level_name_short() //Получить короткое название карты
-	get_local_player_index() //Получить локального игрока
+	get_local_player() //Получить локального игрока
 	get_map_group_name() 
 	get_max_clients() 
 	get_mouse_delta()
